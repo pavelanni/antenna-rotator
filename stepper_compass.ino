@@ -17,8 +17,8 @@ CheapStepper stepper (12, 13, 14, 15);
 aREST rest = aREST();
 
 // WiFi parameters
-const char* ssid = "ElmStreet-G";
-const char* password = "grabthiscoolhotspot";
+const char* ssid = "XXXXX";
+const char* password = "XXXXX";
 
 // Create an instance of the server
 WiFiServer server(80);
